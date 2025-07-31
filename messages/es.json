@@ -1,0 +1,21 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"about_me": "Sobre mí",
+	"academic": "Académico",
+	"contact_me": "Contáctame",
+	"data": {
+		"about_me": "Soy {name}, un desarrollador con formación en Ingeniería en Sistemas y Computación con Maestría en Inteligencia Artificial. Mi trabajo abarca desde el aprendizaje automático hasta el desarrollo web, a menudo involucrando herramientas que apoyan la investigación o proyectos impulsados por la comunidad. Disfruto de los videojuegos y me gusta construir herramientas prácticas que contribuyan a espacios compartidos, ya sea mejorando experiencias o facilitando las cosas a los demás.",
+		"cv": "Herramienta diseñada para el cifrado eficiente y la firma digital de archivos. Soporta el manejo seguro y la protección de datos sensibles, permitiendo la aplicación sencilla de operaciones criptográficas para tareas cotidianas de gestión de archivos.",
+		"cv_ultra": "Herramienta para cifrar, firmar digitalmente y transferir archivos de forma segura. Construida para apoyar la protección y organización eficiente de datos sensibles en distintos sistemas, combinando funciones criptográficas básicas con intercambio de datos.",
+		"notyfind": "Herramienta para la gestión de certificados digitales, con automatización para la recopilación, alertas de expiración y renovación. Diseñada para simplificar el ciclo de vida de los certificados y reducir la supervisión manual en sistemas que requieren comunicación segura constante.",
+		"ost": "Página web y chatbot que ofrecen recomendaciones personalizadas de beatmaps para el juego de ritmo osu!. Utiliza la API pública para recopilar, procesar y clasificar todos los beatmaps rankeados, extrayendo estadísticas relevantes para ayudar a jugadores principiantes e intermedios a identificar mapas adecuados para practicar o progresar.",
+		"quantumtalk": "Aplicación de comunicación peer-to-peer con cifrado de extremo a extremo para mensajes y llamadas de voz. Diseñada para funcionar con mínima interacción con servidores centralizados, asegurando intercambios privados y directos entre usuarios.",
+		"stet": "Herramienta para ayudar a investigadores a evaluar la transparencia semántica de lenguajes específicos de dominio. Soporta el análisis estructurado de qué tan intuitivos y comprensibles son los constructos del lenguaje.",
+		"sud": "Herramienta que integra múltiples modelos para detectar humor y asignar puntuaciones de humor en textos en español, con especial atención a los dialectos de América Latina. Desarrollada como parte de un proyecto de investigación que compara la efectividad de diferentes técnicas y arquitecturas de aprendizaje automático en tareas de reconocimiento de humor.",
+		"webarmor": "Librería que añade una capa adicional de protección al tráfico HTTP, diseñada para funcionar junto a protocolos como TLS. Se enfoca en mejorar la seguridad de las comunicaciones HTTP mediante métodos ligeros y personalizables."
+	},
+	"personal": "Personal",
+	"professional": "Profesional",
+	"projects": "Proyectos",
+	"skills": "Habilidades"
+}

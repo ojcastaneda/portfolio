@@ -1,0 +1,21 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"about_me": "About me",
+	"academic": "Academic",
+	"contact_me": "Contact me",
+	"data": {
+		"about_me": "I'm {name}, a developer with a background in Systems Engineering and a Master's in Artificial Intelligence. My work ranges from machine learning to web development, often involving tools that support research or community-driven projects. I enjoy videogames and like building practical tools that contribute to shared spaces, whether it's through improving experiences or making things a easier for others.",
+		"cv": "Tool designed for efficient encryption and digital signing of files. Supports secure handling and protection of sensitive data, enabling straightforward application of cryptographic operations for everyday file management tasks.",
+		"cv_ultra": "Tool for encrypting, digitally signing, and securely transferring files. Built to support efficient protection and organization of sensitive data across systems, combining basic cryptographic functions with data exchange.",
+		"notyfind": "Tool for managing digital certificates, with automation for collection, expiration alerts, and renewal. Intended to simplify certificate lifecycle handling and reduce manual oversight in systems requiring consistent secure communication.",
+		"ost": "Web page and chatbot that provide personalized beatmap recommendations for the rhythm game osu!. Uses the public API to collect, process, and classify all ranked beatmaps, extracting relevant statistics to assist beginner and intermediate players in identifying suitable maps for practice or progression.",
+		"quantumtalk": "Peer-to-peer communication app featuring end-to-end encryption for both messaging and voice calls. Designed to operate with minimal interaction of centralized servers, ensuring private and direct exchanges between users.",
+		"stet": "Tool to assist researchers in evaluating the semantic transparency of domain-specific languages. Supports structured analysis of how intuitive and understandable language constructs are.",
+		"sud": "Tool that integrates multiple models to detect humor and assign humor ratings in Spanish texts, with specific attention to Latin American dialects. Developed as part of a research project that compares the effectiveness of different machine learning techniques and architectures in humor recognition tasks.",
+		"webarmor": "Library that adds an additional layer of protection to HTTP traffic, designed to work alongside protocols like TLS. Focuses on enhancing security for HTTP communications through lightweight, customizable methods."
+	},
+	"personal": "Personal",
+	"professional": "Professional",
+	"projects": "Projects",
+	"skills": "Skills"
+}
