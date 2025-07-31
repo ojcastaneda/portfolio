@@ -10,7 +10,7 @@
 <section class="m-auto w-5/6 items-center justify-center md:flex lg:w-3/4">
 	<div class="avatar m-auto flex justify-center text-center">
 		<div class="w-100 rounded-full md:w-35 lg:w-50">
-			<img src="/profile.png" alt={personal.name} />
+			<img src="profile.png" alt={personal.name} />
 		</div>
 	</div>
 	<p class="mt-4 h-fit rounded bg-base-300 p-4 text-justify shadow-sm md:my-auto md:ml-4">

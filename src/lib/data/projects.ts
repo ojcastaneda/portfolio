@@ -16,7 +16,7 @@ export interface Project {
 const projects: Project[] = [
 	{
 		id: 'ost',
-		image: '/osu.svg',
+		image: 'osu.svg',
 		name: 'osu! Stamina Trainer',
 		skills: [
 			'AWS',
@@ -38,7 +38,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'stet',
-		image: '/andes.png',
+		image: 'andes.png',
 		name: 'Semantic Transparency Evaluation Tool',
 		skills: ['Express', 'React', 'TypeScript'],
 		source: 'academic',
@@ -51,7 +51,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'sud',
-		image: '/andes.png',
+		image: 'andes.png',
 		name: 'Spanish Humor Detection',
 		skills: ['Git', 'Hugging Face', 'MLflow', 'Pandas', 'Python', 'Pytorch', 'Scikit-learn'],
 		source: 'academic',
@@ -59,7 +59,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'cv',
-		image: '/cyte.png',
+		image: 'cyte.png',
 		name: 'CryptoVault',
 		skills: ['Bouncy Castle', 'Git', 'Java'],
 		source: 'professional',
@@ -67,7 +67,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'cv_ultra',
-		image: '/cyte.png',
+		image: 'cyte.png',
 		name: 'CryptoVault Ultra',
 		skills: ['Bouncy Castle', 'Docker', 'Git', 'Java', 'MSSQL'],
 		source: 'professional',
@@ -75,7 +75,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'notyfind',
-		image: '/cyte.png',
+		image: 'cyte.png',
 		name: 'Notyfind',
 		skills: ['Angular', 'Docker', 'Git', 'Java', 'MSSQL', 'TypeScript'],
 		source: 'professional',
@@ -83,7 +83,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'webarmor',
-		image: '/cyte.png',
+		image: 'cyte.png',
 		name: 'WebArmor',
 		skills: ['Dart', 'Git', 'Node.js', 'TypeScript'],
 		source: 'professional',
@@ -91,7 +91,7 @@ const projects: Project[] = [
 	},
 	{
 		id: 'quantumtalk',
-		image: '/cyte.png',
+		image: 'cyte.png',
 		name: 'QuantumTalk',
 		skills: ['Angular', 'Express', 'Git', 'Node.js', 'TypeScript'],
 		source: 'professional',
