@@ -4,8 +4,6 @@
 	import * as m from '$lib/paraglide/messages.js';
 	import '../app.css';
 
-	export const prerender = true;
-
 	let { children } = $props();
 </script>
 
